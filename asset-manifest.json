@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tailwind-features-section/static/css/main.124b0db5.css",
-    "main.js": "/tailwind-features-section/static/js/main.540d4121.js",
-    "static/js/787.775ba2c0.chunk.js": "/tailwind-features-section/static/js/787.775ba2c0.chunk.js",
-    "static/media/NunitoSans-Regular.ttf": "/tailwind-features-section/static/media/NunitoSans-Regular.a427ddbe4dc20889d6e0.ttf",
-    "index.html": "/tailwind-features-section/index.html",
-    "main.124b0db5.css.map": "/tailwind-features-section/static/css/main.124b0db5.css.map",
-    "main.540d4121.js.map": "/tailwind-features-section/static/js/main.540d4121.js.map",
-    "787.775ba2c0.chunk.js.map": "/tailwind-features-section/static/js/787.775ba2c0.chunk.js.map"
+    "main.css": "/tailwind-features-section-test/static/css/main.82caa218.css",
+    "main.js": "/tailwind-features-section-test/static/js/main.83298f47.js",
+    "static/js/787.775ba2c0.chunk.js": "/tailwind-features-section-test/static/js/787.775ba2c0.chunk.js",
+    "static/media/NunitoSans-Regular.ttf": "/tailwind-features-section-test/static/media/NunitoSans-Regular.a427ddbe4dc20889d6e0.ttf",
+    "index.html": "/tailwind-features-section-test/index.html",
+    "main.82caa218.css.map": "/tailwind-features-section-test/static/css/main.82caa218.css.map",
+    "main.83298f47.js.map": "/tailwind-features-section-test/static/js/main.83298f47.js.map",
+    "787.775ba2c0.chunk.js.map": "/tailwind-features-section-test/static/js/787.775ba2c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.124b0db5.css",
-    "static/js/main.540d4121.js"
+    "static/css/main.82caa218.css",
+    "static/js/main.83298f47.js"
   ]
 }
